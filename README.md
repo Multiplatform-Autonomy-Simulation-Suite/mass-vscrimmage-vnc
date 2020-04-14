@@ -8,7 +8,7 @@ This repository contains a GUI-enabled image for running [SCRIMMAGE](https://git
 ### Running a GUI-enabled Container
 First, from your terminal, run:
 ```
-docker run -p 6901:6901 -d multiplatformautonomy/vscrimmage_vnc
+docker run -p 6901:6901 -d multiplatformautonomy/vscrimmage-vnc
 ```
 Then, go to http://localhost:6901/?password=vncpassword from your favorite modern web browser.
 If prompted for a password, use `vncpassword`.
