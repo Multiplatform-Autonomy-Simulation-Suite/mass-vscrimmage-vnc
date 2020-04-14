@@ -19,7 +19,7 @@ You should now have access to a GUI container for running SCRIMMAGE.
 Follow the instructions above to start a GUI-enabled container
 Open a terminal using the menu in the top-left corner and type the command
 ```
-scrimmage missions/straight.xml
+scrimmage scrimmage/missions/straight.xml
 ```
 
 You should see a visual interface appear.  Press the `h` button to see a list of key bindings to control SCRIMMAGE.  Press `b` to start the simulation.
