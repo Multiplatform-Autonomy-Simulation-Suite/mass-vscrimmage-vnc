@@ -1,4 +1,4 @@
-# mass-vscrimmage-headless
+# mass-vscrimmage-vnc
 
 ## Overview
 ### vSCRIMMAGE-VNC
